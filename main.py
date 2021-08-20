@@ -5,10 +5,10 @@ from google_interface import Drive
 import pandas as pd
 
 # The ID and range of a spreadsheet you want to read.
-SAMPLE_SPREADSHEET_ID_GOOGLE = '1IoK_D6YgaQ6lasadasdLbiE7fNyUgFy1BSzU0v9txA'
+SAMPLE_SPREADSHEET_ID_GOOGLE = 'ENTER YOUR spshID'
 SAMPLE_RANGE = 'A:D'
 #...or update
-SPREADSHEET_TO_UPDATE = '1nBXuCTHTfsdfsdfsd4Rd6DZTZnifCgJP0tBczo0Pwi8'
+SPREADSHEET_TO_UPDATE = 'ENTER YOUR spshID'
 
 
 g_drive = Drive()
